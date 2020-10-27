@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   description: Product title
+pages:
+- content/mi-producto-nuevo.md
